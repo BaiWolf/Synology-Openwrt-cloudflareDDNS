@@ -1,0 +1,2 @@
+# cloudflareDDNS
+群晖和Openert使用cloudflare的DDNS
