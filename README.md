@@ -1,2 +1,2 @@
 # cloudflareDDNS
-群晖和Openert使用cloudflare的DDNS
+群晖和Openert使用cloudflare的DDNS脚本
